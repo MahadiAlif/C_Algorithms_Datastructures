@@ -1,0 +1,8 @@
+Lewis Hamilton       1:22.345
+Max Verstappen       1:21.678
+Charles Leclerc      1:22.890
+Sergio Perez         1:23.100
+Lando Norris         1:23.450
+Carlos Sainz         1:22.560
+Fernando Alonso      1:24.000
+George Russell       1:22.789
